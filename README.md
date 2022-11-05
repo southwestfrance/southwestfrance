@@ -1,4 +1,4 @@
 @southwestfrance
 
-c++, js, python
+c++
 
