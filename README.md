@@ -1,6 +1,6 @@
 @southwestfrance
 
-20 year old programmer, reverse engineer, and problem solver
+Programmer, Reverse Engineer
 - Python
 - C++
 - Java
