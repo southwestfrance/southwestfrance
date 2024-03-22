@@ -7,5 +7,3 @@ Programmer, Reverse Engineer
 - REST APIs
 - Reverse Engineering
 - API Testing
-
-Learning web development
